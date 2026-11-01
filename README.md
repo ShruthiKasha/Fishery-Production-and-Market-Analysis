@@ -1,8 +1,10 @@
-# Fishery-Production-and-Market-Analysis
-Exploratory Data Analysis and Visualization of Fishery Production and Market Price Trends using Python.
-# Exploratory Data Analysis & Visualization (EDAV) – Course-End Project
+# Fishery Production and Market Analysis
 
-An exploratory data analysis and visualization project analysing **inland fish production and fish market price trends in India** using Python libraries such as **NumPy, Pandas, Matplotlib, and Seaborn**.
+**Exploratory Data Analysis and Visualization of Fishery Production and Market Price Trends using Python.**
+
+## Exploratory Data Analysis & Visualization (EDAV) – Course-End Project
+
+An exploratory data analysis and visualization project analysing **inland fish production and fish market price trends in India** using Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
 
 ---
 
